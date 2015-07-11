@@ -1,0 +1,101 @@
+{
+    "id": "firefox_cheat_sheet",
+    "name": "Firefox",
+    "description": "Web Browser",
+    "metadata": {
+        "sourceName": "FirefoxCheatSheet",
+        "sourceUrl": "https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly"
+    },
+    "section_order": [
+        "Tools",
+        "Bookmarks",
+        "Tabs/Windows",
+        "History",
+        "Navigation"
+    ],
+    "sections": {
+        "Tools": [{
+            "val": "Toggle Developer Tools",
+            "key": "[Ctrl] [Shift] [i]"
+        }, {
+            "val": "Web Console",
+            "key": "[Ctrl] [Shift] [k]"
+        }, {
+            "val": "Inspector",
+            "key": "[Ctrl] [Shift] [c]"
+        }, {
+            "val": "Debugger",
+            "key": "[Ctrl] [Shift] [s]"
+        }, {
+            "val": "Developer Toolbar",
+            "key": "[Shift] [f2]"
+        }, {
+            "val": "Scratch Pad",
+            "key": "[Shift] [f4]"
+        }, {
+            "val": "Page Source",
+            "key": "[Ctrl] [u]"
+        }, {
+            "val": "Page Info",
+            "key": "[Ctrl] [i]"
+        }],
+        "Bookmarks": [{
+            "val": "Bookmark This Page",
+            "key": "[Ctrl] [d]"
+        }, {
+            "val": "Bookmark Sidebar",
+            "key": "[Ctrl] [b]"
+        }, {
+            "val": "Manage Bookmarks",
+            "key": "[Ctrl] [Shift] [o]"
+        
+        }],
+        
+        "Tabs/Windows": [{
+            "val": "Select Address Bar",
+            "key": "[Alt] [d]"
+        }, {
+            "val": "New Tab",
+            "key": "[Ctrl] [t]"
+        }, {
+            "val": "Next Tab",
+            "key": "[Ctrl] [tab]"
+        }, {
+            "val": "Close Tab",
+            "key": "[Ctrl] [w]"
+        }, {
+            "val": "New Private Window",
+            "key": "[Ctrl] [Shift] ([n]/[p])"
+        }, {
+            "val": "New Window",
+            "key": "[Ctrl] [n]"
+        }],
+        
+        "History": [{
+            "val": "History Sidebar",
+            "key": "[Ctrl] [h]"
+        }, {
+            "val": "Manage History",
+            "key": "[Ctrl] [Shift] [h]"
+        }, {
+            "val": "Clear Recent History",
+            "key": "[Ctrl] [Shift] [del]"
+        
+        }],
+        
+        "Navigation": [{
+            "val": "Back",
+            "key": "[Alt] [←]"
+        }, {
+            "val": "Forward",
+            "key": "[Alt] [→]"
+        }, {
+            "val": "Home Page",
+            "key": "[Alt] [home]"
+        }, {
+            "val": "Reload",
+            "key": "[Ctrl] [r]"
+    }]
+        
+    }
+}
